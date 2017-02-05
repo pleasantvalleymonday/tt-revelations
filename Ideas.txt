@@ -1,0 +1,65 @@
+Ideas to add/things to remove ---
+
+Possible ideas to come before the alpha-
+-7th gag training (new playground quests) <Oooo>
+-Laff goes up to 200-300 <Uhhhh Where are they gettting the extra laugh? and they'd be basicly unkillable...>
+-Regular updates on the catalog <You mean make more items?>
+-Do something with the Camera in sell bot hq <What Camera?>
+-Take the smoke off the cannon <Why?>
+-Take out some stuff in Boss bot HQ <Why?>
+-Fix the cloud collision with toons in party <100% Needed fixed>
+-Weekly update on the website
+-Level 8 gags?? <Possible! Likly>
+-The President HQ (Where all the cogs are made and distrubuted) <Insanly Unlikly>
+-The "President" HQ <Very Unlikly>
+-New Playground
+-NPC Gagshop in 4 or level 5 buildings
+-Stuff to make after Open Beta
+-Night time (Day time for Donald's)
+-New Race tracks <Hard But Neat But Also remove laugh points thats part of it>
+-New Golf stages <Meh>
+-Doodle fighting with you in sos <Could be hard.. new animations WILL be needed>
+-Fix parties (party planner works, but you can't teleport to party in the shtiker book) <Should be an easy fix>
+-Fix CJ's Bumpy Bumblebehr's dialogue. 
+-Nerf DDL's Toontasks. <Nerf? like make them easyer or harder? if harder I say Your crazy>
+-Fix Laggy collisions. Makes that person stop dead in their tracks. <?>
+-When you enter the stranded building in tenor terrence. There suppose to be a hole on the other side. When you try to go through that 
+hole four cogs from each cog type appear. here are the requested cogs/levels 
+
+Sellbot
+cogs               level
+Mr. HollyWood      15
+The Mingler        15
+Two Face           13
+Mover and Shaker   13
+Lawbot
+Big Wig            16
+Legal Eagle        16
+Spin Doctor        15
+BackStabber        15
+CashBot
+Robber Baron       18
+Loan Shark         18
+Money Bags         16
+Number Cruncher    16
+Boss
+Big Cheese         20
+CR                 20
+Head Hunter        20
+Downsizer          20
+As you defeat them all you are forced to go down an elevator to the sewer streets. which leads to cog nation. <Thats a lot of coding Not let alone all the 3D art needed!>
+<Also I sugest we make custom suits for the cogs protecting cog nation!>
+
+
+
+
+
+What is needed to be taken off
+
+-Camera in sell bot hq
+-When the cog is finished. don't put the cog feet on scale.
+-Take the smoke off the cannon
+-Take out some stuff in Boss bot HQ
+-The game crashing when you hit the clouds from the canon in party mode <Easy fix..>
+-Tiles in the brrrgh playground
+
